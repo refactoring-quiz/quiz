@@ -1,2 +1,3 @@
 # quiz
-Fix the wrong code and make a PR!
+
+Make a PR that fixes the wrong code!
